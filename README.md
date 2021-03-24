@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# ecovalues.github.io
+The ecovalues Political Quiz measures individuals' environmental political values, including Economy, Ableism, Racism, Government, and Roblox Body-Pillow Usage.
